@@ -1,4 +1,4 @@
-# 🎯 LeetCode Daily Practice
+# LeetCode Daily Practice
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-5-brightgreen)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2007%2C%202026-blue)
@@ -6,14 +6,14 @@
 
 A collection of LeetCode solutions, organized by topic and automatically updated.
 
-## 📊 Progress
+## Progress
 
 <!-- STATS_START -->
 - **Total Problems Solved:** 5
 - **Arrays & Hashing:** 5
 <!-- STATS_END -->
 
-## 📝 Problems by Category
+## Problems by Category
 
 ### Arrays and Hashing
 
@@ -27,14 +27,14 @@ A collection of LeetCode solutions, organized by topic and automatically updated
 | 347 | Top K Frequent Elements | [Python](Arrays_and_Hashing/top_k_frequent_elements.py) | Medium |
 <!-- PROBLEMS_END:Arrays_and_Hashing -->
 
-## 🚀 How It Works
+## Automation
 
 This repository automatically updates itself using a Python script and GitHub Actions:
 1. Add your solution files to the appropriate category folder
 2. Push to GitHub
 3. The workflow automatically updates the README with new solutions
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -46,7 +46,7 @@ This repository automatically updates itself using a Python script and GitHub Ac
     └── ...
 ```
 
-## 🛠️ Setup
+## Local Setup
 
 To run the auto-update script locally:
 
