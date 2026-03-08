@@ -1,7 +1,7 @@
 # LeetCode Daily Practice
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-5-brightgreen)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2007%2C%202026-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-6-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-March%2008%2C%202026-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 
 A collection of LeetCode solutions, organized by topic and automatically updated.
@@ -9,8 +9,8 @@ A collection of LeetCode solutions, organized by topic and automatically updated
 ## Progress
 
 <!-- STATS_START -->
-- **Total Problems Solved:** 5
-- **Arrays & Hashing:** 5
+- **Total Problems Solved:** 6
+- **Arrays & Hashing:** 6
 <!-- STATS_END -->
 
 ## Problems by Category
@@ -25,6 +25,7 @@ A collection of LeetCode solutions, organized by topic and automatically updated
 | 217 | Contains Duplicate | [Python](Arrays_and_Hashing/contains_duplicate.py) | Easy |
 | 242 | Valid Anagram | [Python](Arrays_and_Hashing/valid_anagrams.py) | Easy |
 | 347 | Top K Frequent Elements | [Python](Arrays_and_Hashing/top_k_frequent_elements.py) | Medium |
+| - | Lol | [Python](Arrays_and_Hashing/lol.py) | Unknown |
 <!-- PROBLEMS_END:Arrays_and_Hashing -->
 
 ## Automation
@@ -56,4 +57,4 @@ python update_readme.py
 
 ---
 
-*Last auto-updated: March 07, 2026*
+*Last auto-updated: March 08, 2026*
