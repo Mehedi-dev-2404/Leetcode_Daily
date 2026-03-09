@@ -1,165 +1,150 @@
 <div align="center">
 
-<!-- Striking Name Header with Gradient Effect -->
-<h1>
-  <span style="background: linear-gradient(90deg, #667eea 0%, #764ba2 50%, #f093fb 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mehedi Mostafa Hafiz</span>
-</h1>
+<h1>Mehedi Mostafa Hafiz</h1>
 
-<!-- Animated Role Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+%26+Java+Developer;Google+Hackathon+Winner;CLI+%26+Backend+Systems+Builder;Junior+SWE+Intern+%40+OoNt;AI+Hackathon+Technical+Staff" alt="Typing Animation" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Junior+SWE+Intern+%40+OoNt;Google+Hackathon+Winner;CS+%40+University+of+Greenwich;Building+Systems+That+Scale" alt="Typing Animation" />
 
-<!-- Custom Badge Line -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-CLI_Tools_%26_APIs-667eea?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Learning-AWS_%26_Cloud-764ba2?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Status-Junior_SWE_Intern_@_OoNt-f093fb?style=flat-square&labelColor=000000" />
-</p>
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/SWE_Intern-OoNt-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/CS-University_of_Greenwich_'28-58A6FF?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Based_in-London,_UK-58A6FF?style=flat-square&labelColor=0D1117" />
 
 </div>
-
-<br>
 
 ---
 
 ## About Me
 
-```python
-class MehediMostafa:
-    def __init__(self):
-        self.name = "Mehedi Mostafa Hafiz"
-        self.role = "Computer Science Student"
-        self.university = "University of Greenwich"
-        self.graduation_year = 2028
-        self.location = "London, UK"
+Winner of the Google "Build with AI" Hackathon 2025 and 1st place at HackLondon MLH. Currently a Junior Software Engineer Intern at OoNt, shipping across the full product stack — Firebase, Figma, Apple/Google Developer Console, and the entire GitHub codebase.
 
-    def get_achievements(self):
-        return [
-            "Winner - Google 'Build with AI' Hackathon 2025",
-            "1st Place - HackLondon MLH Hackathon (Beacon)",
-            "2nd Place - MAAGlobal Hackathon",
-            "Finalist - SCAI International AI Hackathon",
-            "Technical Staff - Mistral AI Global Hackathon",
-            "Participant - UCL CSRI Hackathon"
-        ]
-
-    def get_current_focus(self):
-        return [
-            "AI & Machine Learning coursework",
-            "Data Structures & Algorithms practice",
-            "Building CLI tools and API-driven apps",
-            "AWS Cloud & Backend Systems"
-        ]
-
-    def get_ambition(self):
-        return "Building impactful systems that scale."
-
-mehedi = MehediMostafa()
-```
+CS student at the University of Greenwich (Class of 2028). I build CLI tools, API-driven applications, and AI-powered systems. Focused on shipping things that work, not just things that compile.
 
 ---
 
-## Technology Arsenal
+## Timeline
+
+- **Feb 2026** -- Junior Software Engineer Intern @ OoNt
+- **Feb 2026** -- Student Ambassador @ The Grad Job Club
+- **2026** -- Technical Staff @ Mistral AI Global Hackathon (London)
+- **2025** -- 1st Place -- Google "Build with AI" Hackathon
+- **2025** -- 1st Place -- HackLondon MLH Hackathon (Beacon)
+- **2025** -- Participant -- UCL CSRI Hackathon
+- **2025** -- 2nd Place -- MAAGlobal Hackathon
+- **2025** -- Finalist -- SCAI International AI Hackathon
+- **2023** -- Founded school student council campaign (100k+ views)
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-### Languages & Core
-<a href="#"><img src="https://skillicons.dev/icons?i=python,java,bash,git,github" alt="Languages & Core" /></a>
+**Languages & Core**
 
-### Tools & Platforms
-<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws,firebase,figma,mongodb" alt="Tools" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=python,java,bash,git,github" /></a>
+
+**Tools & Platforms**
+
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws,firebase,figma,mongodb" /></a>
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 
 </div>
 
-<br>
-
 ---
 
-## Professional Expertise
+## Projects
 
 <div align="center">
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Technical Skills
+**Beacon**<br>
+Student intelligence dashboard reducing decision fatigue by aggregating deadlines, hackathons and jobs.<br>
+<sub><code>Gemini</code> <code>ElevenLabs</code> <code>MongoDB</code></sub><br>
+<sub>Built at HackLondon MLH -- 1st Place</sub>
 
-```yaml
-Development:
-  - Object-Oriented Programming (Python, Java)
-  - Data Structures & Algorithms
-  - REST APIs & JSON
-  - CLI Application Development
-  - SQL Database Management
+</td>
+<td width="50%" valign="top">
 
-Tools & Systems:
-  - Git & GitHub
-  - Linux
-  - AWS (in progress)
-```
+**UCL Housing AI Tool**<br>
+AI prediction engine for first-time buyers using 5,000+ Camden housing records with automated crime, utilities and ROI reports.<br>
+<sub><code>Python</code> <code>AI</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**BrainBox**<br>
+CLI spaced repetition system implementing the Leitner algorithm with persistent JSON storage.<br>
+<sub><code>Python</code> <code>JSON</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Momentum**<br>
+CLI task scheduling engine with priority scoring and constraint resolution logic.<br>
+<sub><code>Python</code> <code>OOP</code></sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Weather Dashboard**<br>
+Desktop app consuming OpenWeather API with real-time data and error handling.<br>
+<sub><code>Python</code> <code>PyQt5</code> <code>REST API</code></sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Pulse Watch**<br>
+Data-processing tool for time-series analysis with aggregation and trend insights.<br>
+<sub><code>Python</code> <code>CLI</code></sub>
 
 </td>
 </tr>
 </table>
-
 </div>
 
-<br>
+---
+
+## Experience
+
+- **Junior Software Engineer Intern** @ OoNt (Feb 2026 -- Present) -- Daily standups, working across Slack, Jira, Firebase, Figma, Apple/Google Developer Console and the full GitHub codebase
+- **Technical Staff** @ Mistral AI Global Hackathon via Iterate -- Supported 20+ teams technically across a weekend-long AI hackathon in London
+- **Student Ambassador** @ The Grad Job Club (Feb 2026 -- Present) -- Supporting student engagement with career development programmes
+- **Finance & Operations Assistant** @ Family Trading Business, Saudi Arabia (Jun 2022 -- Present) -- Managed SAR 1M+ in transactions, supplier negotiations, and compliance
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **BrainBox** | CLI spaced repetition system implementing Leitner algorithm with persistent JSON storage | Python, JSON |
-| **Momentum** | CLI task scheduling engine with priority scoring and constraint resolution logic | Python, OOP |
-| **Weather Dashboard** | Desktop app consuming OpenWeather API with real-time data and error handling | Python, PyQt5, REST API |
-| **Pulse Watch** | Data-processing tool for time-series analysis with aggregation and trend insights | Python, CLI |
-| **Beacon** | Student intelligence dashboard reducing decision fatigue by aggregating deadlines, hackathons and jobs (built at HackLondon MLH) | Gemini, ElevenLabs, MongoDB |
-| **UCL Housing AI Tool** | AI prediction engine for first-time buyers using 5,000+ Camden housing records with automated crime, utilities and ROI reports | Python, AI |
-
-</div>
-
-<br>
-
----
-
----
-
-## Certifications & Training
+## Certifications
 
 <div align="center">
 
 | Certification | Year | Provider |
-|---------------|------|----------|
+|---|---|---|
 | AWS Essential Training for Developers | 2025 | AWS |
 | Introduction to GitHub | 2025 | GitHub |
-| Introduction to SQL | 2026 | — |
-</div>
+| Introduction to SQL | 2026 | -- |
 
-<br>
+</div>
 
 ---
 
-## Professional Experience
+## GitHub Activity
 
-**Experience:**
+<div align="center">
 
-- **Junior Software Engineer Intern** @ OoNt (Feb 2026 – Present) – Participating in daily standups, working across Slack, Jira, Firebase, Figma, Apple/Google Developer Console and the full GitHub codebase
-- **Technical Staff** @ Mistral AI Global Hackathon via Iterate – Supported 20+ teams technically across a weekend-long AI hackathon in London
-- **Student Ambassador** @ The Grad Job Club (Feb 2026 – Present) – Supporting student engagement with career development programmes and industry initiatives
-- **Finance & Operations Assistant** @ Family Trading Business, Saudi Arabia (Jun 2022 – Present) – Managed SAR 1M+ in transactions, supplier negotiations, and compliance
-- **Hackathon Competitor** – Winner (Google Build with AI 2025), 1st Place (HackLondon MLH), 2nd Place (MAAGlobal), Finalist (SCAI International)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true)
 
-<br>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true)
+
+</div>
 
 ---
 
@@ -167,41 +152,20 @@ Tools & Systems:
 
 <div align="center">
 
-### Professional Links
-
-<a href="mailto:mehedimostafahafiz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/mehedi-mostafa-717955339">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/mehedi_codes">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="YOUR_SUBSTACK_OR_CONTENT_LINK">
-  <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
-</a>
-
-<br>
-
-### Technical Interests
-
-<img src="https://img.shields.io/badge/-Python_Development-667eea?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-CLI_Tools-764ba2?style=flat-square&logo=terminal&logoColor=white" />
-<img src="https://img.shields.io/badge/-REST_APIs-f093fb?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-SWE_Intern_@_OoNt-FFD93D?style=flat-square&logo=briefcase&logoColor=black" />
-<img src="https://img.shields.io/badge/-Hackathons-A8DADC?style=flat-square&logo=trophy&logoColor=black" />
-<img src="https://img.shields.io/badge/-AWS_Cloud-6BCF7F?style=flat-square&logo=amazonaws&logoColor=black" />
+<a href="mailto:mehedimostafahafiz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mehedi-mostafa-717955339"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/mehedi_codes"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+**Open to collaborations, hackathons, and opportunities.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
