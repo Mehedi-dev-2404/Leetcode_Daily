@@ -7,14 +7,14 @@
 
 <!-- Animated Role Title -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+%26+Java+Developer;Google+Hackathon+Winner;CLI+%26+Backend+Systems+Builder;Open+to+2026+Internships" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Python+%26+Java+Developer;Google+Hackathon+Winner;CLI+%26+Backend+Systems+Builder;Junior+SWE+Intern+%40+OoNt;AI+Hackathon+Technical+Staff" alt="Typing Animation" />
 </p>
 
 <!-- Custom Badge Line -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-CLI_Tools_%26_APIs-667eea?style=flat-square&labelColor=000000" />
   <img src="https://img.shields.io/badge/Learning-AWS_%26_Cloud-764ba2?style=flat-square&labelColor=000000" />
-  <img src="https://img.shields.io/badge/Status-Seeking_2026_Internships-f093fb?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Status-Junior_SWE_Intern_@_OoNt-f093fb?style=flat-square&labelColor=000000" />
 </p>
 
 <br>
@@ -39,8 +39,11 @@ class MehediMostafa:
     def get_achievements(self):
         return [
             "Winner - Google 'Build with AI' Hackathon 2025",
+            "1st Place - HackLondon MLH Hackathon (Beacon)",
             "2nd Place - MAAGlobal Hackathon",
-            "Finalist - SCAI International AI Hackathon"
+            "Finalist - SCAI International AI Hackathon",
+            "Technical Staff - Mistral AI Global Hackathon",
+            "Participant - UCL CSRI Hackathon"
         ]
 
     def get_current_focus(self):
@@ -67,7 +70,8 @@ mehedi = MehediMostafa()
 <a href="#"><img src="https://skillicons.dev/icons?i=python,java,bash,git,github" alt="Languages & Core" /></a>
 
 ### Tools & Platforms
-<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws" alt="Tools" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=linux,vscode,qt,aws,firebase,figma,mongodb" alt="Tools" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /></a>
 
 </div>
 
@@ -100,30 +104,6 @@ Tools & Systems:
 ```
 
 </td>
-<td width="50%" valign="top">
-
-### Soft Skills
-
-```yaml
-Problem Solving:
-  - Rapid debugging (cross-platform issues)
-  - Root cause analysis
-  - Edge case handling
-  - System optimization
-
-Communication & Collaboration:
-  - Stakeholder communication
-  - Team hackathon collaboration
-  - Technical documentation
-  - Student ambassador outreach
-
-Professional Impact:
-  - Workflow optimization (30% improvement)
-  - Financial tracking (SAR 1M+)
-  - Customer-facing operations
-```
-
-</td>
 </tr>
 </table>
 
@@ -143,6 +123,8 @@ Professional Impact:
 | **Momentum** | CLI task scheduling engine with priority scoring and constraint resolution logic | Python, OOP |
 | **Weather Dashboard** | Desktop app consuming OpenWeather API with real-time data and error handling | Python, PyQt5, REST API |
 | **Pulse Watch** | Data-processing tool for time-series analysis with aggregation and trend insights | Python, CLI |
+| **Beacon** | Student intelligence dashboard reducing decision fatigue by aggregating deadlines, hackathons and jobs (built at HackLondon MLH) | Gemini, ElevenLabs, MongoDB |
+| **UCL Housing AI Tool** | AI prediction engine for first-time buyers using 5,000+ Camden housing records with automated crime, utilities and ROI reports | Python, AI |
 
 </div>
 
@@ -159,6 +141,8 @@ Professional Impact:
 | Certification | Year | Provider |
 |---------------|------|----------|
 | AWS Essential Training for Developers | 2025 | AWS |
+| Introduction to GitHub | 2025 | GitHub |
+| Introduction to SQL | 2026 | — |
 </div>
 
 <br>
@@ -169,10 +153,11 @@ Professional Impact:
 
 **Experience:**
 
+- **Junior Software Engineer Intern** @ OoNt (Feb 2026 – Present) – Participating in daily standups, working across Slack, Jira, Firebase, Figma, Apple/Google Developer Console and the full GitHub codebase
+- **Technical Staff** @ Mistral AI Global Hackathon via Iterate – Supported 20+ teams technically across a weekend-long AI hackathon in London
 - **Student Ambassador** @ The Grad Job Club (Feb 2026 – Present) – Supporting student engagement with career development programmes and industry initiatives
-- **Guest Reservation Assistant** @ Hofin Stays, London (Jun 2024 – Jun 2025) – Optimized operational workflows, achieving 30% reduction in repeat errors
 - **Finance & Operations Assistant** @ Family Trading Business, Saudi Arabia (Jun 2022 – Present) – Managed SAR 1M+ in transactions, supplier negotiations, and compliance
-- **Hackathon Competitor** – Winner (Google Build with AI 2025), 2nd Place (MAAGlobal), Finalist (SCAI International)
+- **Hackathon Competitor** – Winner (Google Build with AI 2025), 1st Place (HackLondon MLH), 2nd Place (MAAGlobal), Finalist (SCAI International)
 
 <br>
 
@@ -204,7 +189,7 @@ Professional Impact:
 <img src="https://img.shields.io/badge/-Python_Development-667eea?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-CLI_Tools-764ba2?style=flat-square&logo=terminal&logoColor=white" />
 <img src="https://img.shields.io/badge/-REST_APIs-f093fb?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-2026_Internships-FFD93D?style=flat-square&logo=briefcase&logoColor=black" />
+<img src="https://img.shields.io/badge/-SWE_Intern_@_OoNt-FFD93D?style=flat-square&logo=briefcase&logoColor=black" />
 <img src="https://img.shields.io/badge/-Hackathons-A8DADC?style=flat-square&logo=trophy&logoColor=black" />
 <img src="https://img.shields.io/badge/-AWS_Cloud-6BCF7F?style=flat-square&logo=amazonaws&logoColor=black" />
 
