@@ -1,7 +1,7 @@
 # LeetCode Daily Practice
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-6-brightgreen)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-May%2003%2C%202026-blue)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-7-brightgreen)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%2022%2C%202026-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 
 A collection of LeetCode solutions, organized by topic and automatically updated.
@@ -9,8 +9,8 @@ A collection of LeetCode solutions, organized by topic and automatically updated
 ## Progress
 
 <!-- STATS_START -->
-- **Total Problems Solved:** 6
-- **Arrays & Hashing:** 6
+- **Total Problems Solved:** 7
+- **Arrays & Hashing:** 7
 <!-- STATS_END -->
 
 ## Problems by Category
@@ -25,6 +25,7 @@ A collection of LeetCode solutions, organized by topic and automatically updated
 | 217 | Contains Duplicate | [Python](Arrays_and_Hashing/contains_duplicate.py) | Easy |
 | 242 | Valid Anagram | [Python](Arrays_and_Hashing/valid_anagrams.py) | Easy |
 | 347 | Top K Frequent Elements | [Python](Arrays_and_Hashing/top_k_frequent_elements.py) | Medium |
+| - | Longest Consecutive Sequence | [Python](Arrays_and_Hashing/longest_consecutive_sequence.py) | Unknown |
 | - | Products Of Array Except Self | [Python](Arrays_and_Hashing/products_of_array_except_self.py) | Unknown |
 <!-- PROBLEMS_END:Arrays_and_Hashing -->
 
@@ -57,4 +58,4 @@ python update_readme.py
 
 ---
 
-*Last auto-updated: May 03, 2026*
+*Last auto-updated: June 22, 2026*
