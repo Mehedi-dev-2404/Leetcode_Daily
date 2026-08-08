@@ -1,4 +1,5 @@
-word = "YOKOHAMA"  # String instead of list
+word = "YOKOHAMA"  # String instead of listexplai dfs
+
 guess = "YOKOHAMA"
 
 for i in range(len(word)):
