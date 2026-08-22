@@ -1,7 +1,7 @@
 # LeetCode Daily Practice
 
 ![Problems Solved](https://img.shields.io/badge/Problems%20Solved-7-brightgreen)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-June%2022%2C%202026-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2022%2C%202026-blue)
 ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 
 A collection of LeetCode solutions, organized by topic and automatically updated.
@@ -58,4 +58,4 @@ python update_readme.py
 
 ---
 
-*Last auto-updated: June 22, 2026*
+*Last auto-updated: August 22, 2026*
